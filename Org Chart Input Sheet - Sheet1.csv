@@ -1,0 +1,12 @@
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Tatvic's Organization Structure,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,root,,
+Ravi Pathak,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,CEO,1000,root,
+CEO's Office,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,DP-01,1000,
+International Business,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,DP-02,1000,
+Tejas Modi,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,CEO,1031,1000,
+Marketing,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,DP-03,1000,
+Stratergy & Solution,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,DP-04,1000,
+Jyot Patel,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,Head of Account Management Singapore,1483,DP-02,
+Khilav Joshi,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,Head - Customer Delivery,1284,1031,
+Mayank Bhardwaj,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,Head of Customer Development,1112,1031,
+Customer Delivery,https://raw.githubusercontent.com/Jayp167/Org_chart/main/org_general.jpg,,,,,,,DP-05,1284,
